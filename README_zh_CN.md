@@ -6,6 +6,8 @@
 
 **最后更新时间：2024.8.4**
 
+✨ **注意：本项目fork自[so-vits-svc-Deployment-Documents](https://github.com/SUC-DriverOld/so-vits-svc-Deployment-Documents/tree/4.1)，感谢作者的辛苦付出！！！**
+
 本帮助文档为项目 [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) 的详细安装、调试、推理教程，您也可以直接选择官方[README](https://github.com/svc-develop-team/so-vits-svc#readme)文档
 
 中文文档撰写：Sucial | [Bilibili 主页](https://space.bilibili.com/445022409)
